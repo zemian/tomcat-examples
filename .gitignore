@@ -4,5 +4,5 @@
 
 tmp/
 
-/webapps/sample/build/
-/webapps/sample/*.war
+sample/build/
+sample/dist/
