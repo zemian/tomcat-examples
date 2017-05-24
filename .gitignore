@@ -1,8 +1,4 @@
-/temp/
-/work/
-/logs/
-
+target/
 tmp/
-
-sample/build/
-sample/dist/
+.idea
+mytomcat.iml
