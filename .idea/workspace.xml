@@ -1,11 +1,871 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaaa4345-b692-4d59-8651-84f326e301af" name="Default" comment="">
+    <list default="true" id="1cb2723d-1755-40d7-9a4f-80741707760d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/Clock2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/CookieExample.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/HelloWorldExample.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/RequestHeaderExample.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/RequestInfoExample.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/RequestParamExample.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/ServletToJsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/SessionExample.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Async0$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Async0.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Async1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Async1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Async2$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Async2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Async3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/AsyncStockServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Stockticker$Stock.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Stockticker$TickListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/async/Stockticker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/cal/Entries.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/cal/Entry.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/cal/JspCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/cal/TableBean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/checkbox/CheckTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/colors/ColorGameBean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/compressionFilters/CompressionFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/compressionFilters/CompressionFilterTestServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/compressionFilters/CompressionResponseStream.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/compressionFilters/CompressionServletResponseWrapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/dates/JspCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/error/Smart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/examples/ExampleTagBase.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/examples/FooTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/examples/FooTagExtraInfo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/examples/LogTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/examples/ShowSource.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/examples/ValuesTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/filters/ExampleFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/BookBean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/FooBean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/ValuesBean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/el/Functions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/simpletag/FindBookSimpleTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/simpletag/RepeatSimpleTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/simpletag/ShuffleSimpleTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/jsp2/examples/simpletag/TileSimpleTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/listeners/ContextListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/listeners/SessionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mypackage/Hello.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/nonblocking/ByteCounter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/nonblocking/ByteCounter$CounterListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/nonblocking/ByteCounter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/nonblocking/NumberWriter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/nonblocking/NumberWriter$NumberWriterListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/nonblocking/NumberWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/num/NumberGuessBean.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/sessions/DummyCart.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/CookieFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/util/HTMLFilter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/validators/DebugValidator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/ExamplesConfig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/chat/ChatAnnotation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/Client$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/Client.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/DrawMessage$ParseException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/DrawMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/DrawboardContextListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/DrawboardEndpoint$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/DrawboardEndpoint$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/DrawboardEndpoint$3$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/DrawboardEndpoint$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/DrawboardEndpoint.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/Room$1$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/Room$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/Room$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/Room$MessageType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/Room$Player.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/Room.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoAnnotation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoAsyncAnnotation$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoAsyncAnnotation$CompletedFuture.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoAsyncAnnotation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoAttributesTag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoEndpoint$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerBinary.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerText.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoEndpoint.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/echo/EchoStreamAnnotation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/snake/Direction.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/snake/Location$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/snake/Location.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/snake/Snake.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/snake/SnakeAnnotation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/snake/SnakeTimer$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/websocket/snake/SnakeTimer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/el/composite_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/el/functions_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/el/implicit_002dobjects_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/jspx/basic_jspx.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/misc/dynamicattrs_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/simpletag/book_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/tagfiles/products_jsp$Helper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/tagfiles/products_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/script_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/sql_002ddemo_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/sqlconn/conn_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/tag/web/displayProducts_tag.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/test_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/manager/org/apache/jsp/WEB_002dINF/jsp/_401_jsp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/mytomcat_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/mytomcat_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.adoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Clock2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ContextListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CookieExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/HelloWorldExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/RequestHeaderExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/RequestInfoExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/RequestParamExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ServletToJsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/SessionExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/async/Async0.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/async/Async1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/async/Async2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/async/Async3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/async/AsyncStockServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/async/Stockticker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cal/Entries.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cal/Entry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cal/JspCalendar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cal/TableBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/checkbox/CheckTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/colors/ColorGameBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/compressionFilters/CompressionFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/compressionFilters/CompressionFilterTestServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/compressionFilters/CompressionResponseStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/compressionFilters/CompressionServletResponseWrapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dates/JspCalendar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/error/Smart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/examples/ExampleTagBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/examples/FooTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/examples/FooTagExtraInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/examples/LogTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/examples/ShowSource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/examples/ValuesTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/filters/ExampleFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/BookBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/FooBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/ValuesBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/el/Functions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/simpletag/FindBookSimpleTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/simpletag/HelloWorldSimpleTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/simpletag/RepeatSimpleTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/simpletag/ShuffleSimpleTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jsp2/examples/simpletag/TileSimpleTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/listeners/SessionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/mypackage/Hello.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/nonblocking/ByteCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/nonblocking/NumberWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/num/NumberGuessBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/sessions/DummyCart.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/util/CookieFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/util/HTMLFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/validators/DebugValidator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/ExamplesConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/chat/ChatAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/DrawMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/DrawboardContextListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/DrawboardEndpoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/Room.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/wsmessages/AbstractWebsocketMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/wsmessages/BinaryWebsocketMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/wsmessages/CloseWebsocketMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/drawboard/wsmessages/StringWebsocketMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/echo/EchoAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/echo/EchoAsyncAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/echo/EchoAttributesTag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/echo/EchoEndpoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/echo/EchoStreamAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/snake/Direction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/snake/Location.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/snake/Snake.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/snake/SnakeAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/websocket/snake/SnakeTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/WEB-INF/jsp/debug-taglib.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/WEB-INF/jsp/example-taglib.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/WEB-INF/jsp2/jsp2-example-taglib.tld" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/WEB-INF/tags/displayProducts.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/WEB-INF/tags/helloWorld.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/WEB-INF/tags/panel.tag" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/async/async1.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/async/async1.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/async/async3.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/async/async3.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/async/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/async/index.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/Entries.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/Entry.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/JspCalendar.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/TableBean.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/cal1.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/cal1.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/cal2.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/cal2.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/cal/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/checkbox/CheckTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/checkbox/check.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/checkbox/checkresult.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/checkbox/checkresult.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/checkbox/cresult.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/colors/ColorGameBean.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/colors/clr.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/colors/colors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/colors/colrs.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/colors/colrs.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/dates/date.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/dates/date.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/dates/date.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/error/er.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/error/err.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/error/err.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/error/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/error/errorpge.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/error/errorpge.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/forward/forward.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/forward/forward.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/forward/fwd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/forward/one.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/forward/one.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/forward/two.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/include/foo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/include/foo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/include/foo.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/include/inc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/include/include.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/include/include.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/Functions.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/ValuesBean.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/ValuesTag.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/basic-arithmetic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/basic-arithmetic.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/basic-arithmetic.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/basic-comparisons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/basic-comparisons.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/basic-comparisons.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/composite.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/composite.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/composite.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/functions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/functions.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/functions.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/implicit-objects.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/implicit-objects.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/el/implicit-objects.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/FooBean.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/HelloWorldSimpleTag.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/ShuffleSimpleTag.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/TileSimpleTag.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/jspattribute.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/jspattribute.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/jspattribute.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/shuffle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/shuffle.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspattribute/shuffle.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspx/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspx/basic.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspx/basic.jspx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspx/svgexample.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspx/textRotate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspx/textRotate.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspx/textRotate.jspx.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/EchoAttributesTag.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/coda.jspf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/coda.jspf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/config.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/config.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/config.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/dynamicattrs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/dynamicattrs.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/dynamicattrs.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/prelude.jspf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/misc/prelude.jspf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/BookBean.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/FindBookSimpleTag.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/Functions.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/HelloWorldSimpleTag.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/RepeatSimpleTag.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/book.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/book.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/book.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/hello.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/hello.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/repeat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/repeat.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/simpletag/repeat.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/displayProducts.tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/hello.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/hello.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/helloWorld.tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/panel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/panel.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/panel.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/panel.tag.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/products.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/products.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/tagfiles/products.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsptoserv/ServletToJsp.java.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsptoserv/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsptoserv/hello.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsptoserv/jsptoservlet.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsptoserv/jsptoservlet.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsptoserv/jts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/num/numguess.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/num/numguess.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/num/numguess.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/plugin/plugin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/plugin/plugin.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/plugin/plugin.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/security/protected/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/security/protected/error.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/security/protected/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/security/protected/index.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/security/protected/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/security/protected/login.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/sessions/DummyCart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/sessions/carts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/sessions/carts.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/sessions/carts.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/sessions/crt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/simpletag/foo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/simpletag/foo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/simpletag/foo.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/snp/snoop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/snp/snoop.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/snp/snoop.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/source.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/source.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/choose.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/choose.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/choose.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/foreach.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/foreach.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/foreach.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/howto.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/if.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/if.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/if.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/tagplugin/notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/xml/xml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/xml/xml.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/xml/xml.jsp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/cookies.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/helloworld.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/nonblocking/bytecounter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/reqheaders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/reqinfo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/reqparams.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/sessions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/websocket/chat.xhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/websocket/drawboard.xhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/websocket/echo.xhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/websocket/index.xhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapps/websocket/snake.xhtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/conf/server.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/conf/tomcat-users.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/conf/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/logs/catalina.2017-05-22.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/logs/host-manager.2017-05-22.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/logs/localhost.2017-05-22.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/logs/localhost_access_log.2017-05-22.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/logs/localhost_access_log.2017-05-23.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/logs/manager.2017-05-22.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/RELEASE-NOTES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/asf-logo-wide.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/tomcat.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/tomcat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/META-INF/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/WEB-INF/jsp/401.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/WEB-INF/jsp/403.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/WEB-INF/jsp/404.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/WEB-INF/jsp/connectorCiphers.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/WEB-INF/jsp/sessionDetail.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/WEB-INF/jsp/sessionsList.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/asf-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/status.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/xform.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/index_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/SESSIONS.ser" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/el/composite_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/el/functions_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/el/implicit_002dobjects_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/jspx/basic_jspx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/misc/dynamicattrs_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/simpletag/book_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/jsp/jsp2/tagfiles/products_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/script_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/sql_002ddemo_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/sqlconn/conn_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/tag/web/displayProducts_tag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/examples/org/apache/jsp/test_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tomcat/work/Catalina/localhost/manager/org/apache/jsp/WEB_002dINF/jsp/_401_jsp.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/conf/server.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/conf/tomcat-users.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/conf/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/postgresql-42.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/taglibs-standard-impl-1.2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/taglibs-standard-spec-1.2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/docs/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/src/mypackage/Hello.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/web/hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample/web/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/ROOT/RELEASE-NOTES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/ROOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/ROOT/asf-logo-wide.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/ROOT/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/ROOT/tomcat.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/ROOT/tomcat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/CookieExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/CookieExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/HelloWorldExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/HelloWorldExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/LocalStrings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/LocalStrings_en.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/LocalStrings_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/LocalStrings_fr.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/LocalStrings_pt.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/RequestHeaderExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/RequestHeaderExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/RequestInfoExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/RequestInfoExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/RequestParamExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/RequestParamExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/ServletToJsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/ServletToJsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/SessionExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/SessionExample.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async0$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async0.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async1.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Async3.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Stockticker$Stock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Stockticker$TickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Stockticker.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/async/Stockticker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/cal/Entries.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/cal/Entries.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/cal/Entry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/cal/Entry.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/cal/JspCalendar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/cal/JspCalendar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/cal/TableBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/cal/TableBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/checkbox/CheckTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/checkbox/CheckTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/colors/ColorGameBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/colors/ColorGameBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/dates/JspCalendar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/dates/JspCalendar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/error/Smart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/error/Smart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/FooTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/FooTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/LogTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/LogTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/ShowSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/ShowSource.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/ValuesTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/examples/ValuesTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/filters/ExampleFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/filters/ExampleFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/http2/SimpleImagePush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/http2/SimpleImagePush.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/ValuesBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/ValuesBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/el/Functions.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/el/Functions.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/listeners/ContextListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/listeners/ContextListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/listeners/SessionListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/listeners/SessionListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$CounterListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter$NumberWriterListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/num/NumberGuessBean.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/num/NumberGuessBean.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/sessions/DummyCart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/sessions/DummyCart.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/util/CookieFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/util/CookieFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/util/HTMLFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/util/HTMLFilter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/validators/DebugValidator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/validators/DebugValidator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/ExamplesConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/ExamplesConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Client$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Client.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Client.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage$ParseException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$MessageType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$Player.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$CompletedFuture.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerBinary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerText.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/echo/servers.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/Direction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/Direction.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/Location$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/Location.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/Location.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/Snake.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/Snake.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/jsp/applet/Clock2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/jsp/debug-taglib.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/jsp/example-taglib.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/jsp2/jsp2-example-taglib.tld" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/tags/displayProducts.tag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/tags/helloWorld.tag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/tags/panel.tag" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/async/async1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/async/async1.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/async/async3.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/async/async3.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/async/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/async/index.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/Entries.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/Entry.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/JspCalendar.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/TableBean.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/cal1.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/cal1.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/cal2.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/cal2.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/calendar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/cal/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/checkbox/CheckTest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/checkbox/check.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/checkbox/checkresult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/checkbox/checkresult.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/checkbox/cresult.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/colors/ColorGameBean.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/colors/clr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/colors/colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/colors/colrs.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/colors/colrs.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/dates/date.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/dates/date.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/dates/date.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/error/er.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/error/err.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/error/err.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/error/error.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/error/errorpge.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/error/errorpge.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/forward/forward.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/forward/forward.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/forward/fwd.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/forward/one.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/forward/one.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/forward/two.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/include/foo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/include/foo.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/include/foo.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/include/inc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/include/include.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/include/include.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/Functions.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/ValuesBean.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/ValuesTag.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/basic-arithmetic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/basic-arithmetic.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/basic-arithmetic.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/basic-comparisons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/basic-comparisons.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/basic-comparisons.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/composite.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/composite.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/composite.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/functions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/functions.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/functions.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/implicit-objects.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/implicit-objects.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/el/implicit-objects.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/FooBean.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/HelloWorldSimpleTag.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/ShuffleSimpleTag.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/TileSimpleTag.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/jspattribute.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/jspattribute.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/jspattribute.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/shuffle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspx/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspx/basic.jspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspx/basic.jspx.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspx/svgexample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspx/textRotate.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspx/textRotate.jspx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspx/textRotate.jspx.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/EchoAttributesTag.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/coda.jspf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/coda.jspf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/config.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/config.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/config.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/dynamicattrs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/dynamicattrs.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/dynamicattrs.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/prelude.jspf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/misc/prelude.jspf.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/BookBean.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/FindBookSimpleTag.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/Functions.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/HelloWorldSimpleTag.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/RepeatSimpleTag.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/book.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/book.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/book.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/hello.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/hello.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/repeat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/repeat.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/simpletag/repeat.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/displayProducts.tag.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/hello.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/hello.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/helloWorld.tag.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/panel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/panel.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/panel.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/panel.tag.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/products.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/products.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/tagfiles/products.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsptoserv/ServletToJsp.java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsptoserv/hello.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsptoserv/hello.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsptoserv/jts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/num/numguess.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/num/numguess.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/num/numguess.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/plugin/applet/Clock2.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/plugin/plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/plugin/plugin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/plugin/plugin.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/security/protected/error.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/security/protected/error.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/security/protected/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/security/protected/index.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/security/protected/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/security/protected/login.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/sessions/DummyCart.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/sessions/carts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/sessions/carts.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/sessions/carts.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/sessions/crt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/simpletag/foo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/simpletag/foo.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/simpletag/foo.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/snp/snoop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/snp/snoop.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/snp/snoop.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/source.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/source.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/choose.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/choose.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/choose.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/foreach.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/foreach.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/foreach.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/howto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/if.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/if.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/if.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/tagplugin/notes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/xml/xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/xml/xml.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/xml/xml.jsp.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/cookies.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/helloworld.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/nonblocking/bytecounter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/reqheaders.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/reqinfo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/reqparams.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/sessions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/websocket/chat.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/websocket/drawboard.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/websocket/echo.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/websocket/index.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/examples/websocket/snake.xhtml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/META-INF/context.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/WEB-INF/jsp/401.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/WEB-INF/jsp/403.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/WEB-INF/jsp/404.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/WEB-INF/jsp/connectorCiphers.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/WEB-INF/jsp/sessionDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/WEB-INF/jsp/sessionsList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/images/asf-logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/status.xsd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webapps/manager/xform.xsl" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/run.sh" afterPath="$PROJECT_DIR$/tomcat/bin/run.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/sample/web/images/tomcat.gif" afterPath="$PROJECT_DIR$/src/main/webapps/images/tomcat.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/bg-button.png" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/bg-button.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/bg-middle.png" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/bg-middle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/bg-nav-item.png" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/bg-nav-item.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/bg-nav.png" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/bg-nav.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/bg-upper.png" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/bg-upper.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/favicon.ico" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/tomcat-power.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/tomcat-power.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/tomcat.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/tomcat.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/ROOT/tomcat.png" afterPath="$PROJECT_DIR$/tomcat/webapps/ROOT/tomcat.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/images/code.gif" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/images/code.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/images/execute.gif" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/images/execute.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/images/read.gif" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/images/read.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/images/return.gif" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/images/return.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/jsp2/jspx/textRotate.jpg" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/jsp2/jspx/textRotate.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/jsp/plugin/applet/Clock2.class" afterPath="$PROJECT_DIR$/src/main/webapps/jsp/plugin/applet/Clock2.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/images/code.gif" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/images/code.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/images/execute.gif" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/images/execute.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/servlets/images/return.gif" afterPath="$PROJECT_DIR$/src/main/webapps/servlets/images/return.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/sqlconn/conn.jsp" afterPath="$PROJECT_DIR$/src/main/webapps/sqlconn/conn.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/examples/test.jsp" afterPath="$PROJECT_DIR$/src/main/webapps/test.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/manager/images/add.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/add.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/manager/images/code.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/code.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/manager/images/design.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/design.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/manager/images/docs.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/docs.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/manager/images/fix.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/fix.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/manager/images/tomcat.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/tomcat.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/manager/images/update.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/update.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/webapps/manager/images/void.gif" afterPath="$PROJECT_DIR$/tomcat/webapps/manager/images/void.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mytomcat.iml" afterPath="$PROJECT_DIR$/mytomcat.iml" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +878,6 @@
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -29,18 +886,23 @@
       <projects_view />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/webapps/examples/sqlconn/conn.jsp" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apps/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="97" />
@@ -48,9 +910,7 @@
     <option name="width" value="1256" />
     <option name="height" value="741" />
   </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -68,6 +928,7 @@
     <panes>
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -82,20 +943,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/webapps/examples/sqlconn" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,22 +989,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -170,80 +1010,12 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="mytomcat" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -274,16 +1046,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -299,23 +1061,24 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24958813" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -331,73 +1094,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sample/src/mypackage/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapps/examples/test.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/jdk/src.zip!/java/beans/SimpleBeanInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-          <folding>
-            <element signature="e#1205#1206#0" expanded="false" />
-            <element signature="e#1232#1233#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/jdk/src.zip!/java/beans/FeatureDescriptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2232">
-          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/apps/jdk/src.zip!/java/beans/PropertyDescriptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="36" column="46" lean-forward="true" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webapps/examples/sqlconn/conn.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>mytomcat:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -405,7 +1119,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -440,7 +1154,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|mytomcat</last-edited>
+          <last-edited>mytomcat</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -464,7 +1178,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
+          <last-edited>Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
