@@ -1,4 +1,4 @@
 target/
 tmp/
 .idea
-mytomcat.iml
+*.iml
