@@ -20,8 +20,6 @@ import java.io.IOException;
 
 import javax.servlet.jsp.JspException;
 import javax.servlet.jsp.JspTagException;
-import javax.servlet.jsp.tagext.BodyTag;
-import javax.servlet.jsp.tagext.Tag;
 
 /**
  * Example1: the simplest tag
@@ -61,7 +59,7 @@ public class FooTag extends ExampleTagBase {
     @Override
     public int doStartTag() throws JspException {
         i = 0;
-        return BodyTag.EVAL_BODY_BUFFERED;
+        return EVAL_BODY_BUFFERED;
     }
 
     @Override
@@ -75,12 +73,12 @@ public class FooTag extends ExampleTagBase {
         try {
             if (i == 3) {
                 bodyOut.writeOut(bodyOut.getEnclosingWriter());
-                return Tag.SKIP_BODY;
+                return SKIP_BODY;
             }
 
             pageContext.setAttribute("member", atts[i]);
             i++;
-            return BodyTag.EVAL_BODY_BUFFERED;
+            return EVAL_BODY_BUFFERED;
         } catch (IOException ex) {
             throw new JspTagException(ex.toString());
         }

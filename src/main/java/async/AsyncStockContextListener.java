@@ -14,19 +14,31 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package websocket.drawboard;
+package async;
 
+import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
-public final class DrawboardContextListener implements ServletContextListener {
+/*
+ * Ensures the Stockticker is shut down cleanly when the context stops. This
+ * also covers the case when the server shuts down.
+ */
+public class AsyncStockContextListener implements ServletContextListener {
+
+    public static final String STOCK_TICKER_KEY = "StockTicker";
+
+    @Override
+    public void contextInitialized(ServletContextEvent sce) {
+        Stockticker stockticker = new Stockticker();
+        ServletContext sc = sce.getServletContext();
+        sc.setAttribute(STOCK_TICKER_KEY, stockticker);
+    }
 
     @Override
     public void contextDestroyed(ServletContextEvent sce) {
-        // Shutdown our room.
-        Room room = DrawboardEndpoint.getRoom(false);
-        if (room != null) {
-            room.shutdown();
-        }
+        ServletContext sc = sce.getServletContext();
+        Stockticker stockticker = (Stockticker) sc.getAttribute(STOCK_TICKER_KEY);
+        stockticker.shutdown();
     }
 }

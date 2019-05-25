@@ -1,9 +1,7 @@
 = About
 
-This a mavenized verison of the examples project from the original Tomcat 8.5.15 release package. 
+This a mavenized verison of the examples project from the original Tomcat 9.0.20 release package. 
 
-I have also added some additional files to explore JSP features, such as sql in JSTL tags etc. 
-
-2017-05
+5/25/2019
 
 Zemian Deng

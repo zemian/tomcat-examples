@@ -24,7 +24,7 @@ import javax.servlet.jsp.JspTagException;
 /**
  * Log the contents of the body. Could be used to handle errors etc.
  */
-public class LogTag extends examples.ExampleTagBase {
+public class LogTag extends ExampleTagBase {
 
     private static final long serialVersionUID = 1L;
 

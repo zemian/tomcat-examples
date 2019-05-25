@@ -98,7 +98,7 @@
           Tag that echoes all its attributes and body content
         </description>
         <name>echoAttributes</name>
-        <tag-class>websocket.echo.EchoAttributesTag</tag-class>
+        <tag-class>jsp2.examples.simpletag.EchoAttributesTag</tag-class>
         <body-content>empty</body-content>
         <dynamic-attributes>true</dynamic-attributes>
     </tag>
